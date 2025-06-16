@@ -1,26 +1,31 @@
-<div align="center">
-  
-## Cristina de Carvalho  
-   <div style="display: inline_block"><br>
-   
-  <img align="center" alt="Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Firebase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Trello" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg">
-  <img align="center" alt="VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-      
-</div>
-   
-   
-<a href="https://www.linkedin.com/in/criscdev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
-   
- ---
-   
-</div>
+# Hi there! 👋 I'm Cristina Carvalho
+
+## 🚀 Full Stack Web Engineer | Angular Specialist
+
+Software engineer with 3+ years building scalable web applications and quality automation. Based in São Paulo, Brazil 🇧🇷
+
+### 🔧 Tech Stack
+- **Frontend:** Angular (20) & AngularJS, TypeScript, JavaScript, HTML5, CSS3
+- **Backend & Cloud:** AWS, REST APIs, Firebase, Node.js, Vue.js
+- **Testing:** Selenium (Java), Gherkin, Cucumber, WCAG Accessibility
+- **Tools:** Git, Jira, Confluence, Agile/Scrum, Figma
+
+### 💼 Experience
+- **Full Stack Developer** at Plusoft (2025-Present)
+- **Software Engineer** at NTT DATA Europe & LATAM (2021-2025)
+- **Project Researcher** at FIPE (2017-Present)
+
+### 🎯 Focus Areas
+- ♿ **Accessibility & Performance** - WCAG certified
+- 🌍 **International Collaboration** - C2 English proficiency
+- 🔍 **Quality Assurance** - Automation expertise
+
+### 📫 Connect
+- 📧 crisdev@duck.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/criscdev)
+
+### 🗣️ Languages
+Portuguese (Native) | English (C2) | Spanish (Professional) | French (Basic)
+
+---
+💡 *Passionate about technical excellence and user-focused solutions*
