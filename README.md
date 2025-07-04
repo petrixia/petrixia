@@ -5,7 +5,7 @@
 Software engineer with 3+ years building scalable web applications and quality automation. Based in São Paulo, Brazil 🇧🇷
 
 ### 🔧 Tech Stack
-- **Frontend:** Angular (20) & AngularJS, TypeScript, JavaScript, HTML5, CSS3
+- **Frontend:** Angular (12+) & AngularJS, TypeScript, JavaScript, HTML5, CSS3
 - **Backend & Cloud:** AWS, REST APIs, Firebase, Node.js, Vue.js
 - **Testing:** Selenium (Java), Gherkin, Cucumber, WCAG Accessibility
 - **Tools:** Git, Jira, Confluence, Agile/Scrum, Figma
